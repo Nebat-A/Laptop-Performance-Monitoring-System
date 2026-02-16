@@ -18,13 +18,13 @@
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
-  "id": 0,
+  "id": 1,
   "links": [],
   "panels": [
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "efddlhd0r5n9cd"
+        "uid": "P1809F7CD0C75ACF3"
       },
       "fieldConfig": {
         "defaults": {
@@ -123,7 +123,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "efddlhd0r5n9cd"
+        "uid": "P1809F7CD0C75ACF3"
       },
       "fieldConfig": {
         "defaults": {
@@ -192,7 +192,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "efddlhd0r5n9cd"
+        "uid": "P1809F7CD0C75ACF3"
       },
       "fieldConfig": {
         "defaults": {
@@ -217,8 +217,8 @@
         "overrides": []
       },
       "gridPos": {
-        "h": 5,
-        "w": 3,
+        "h": 7,
+        "w": 5,
         "x": 16,
         "y": 7
       },
